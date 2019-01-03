@@ -35,8 +35,8 @@ The IDEAs algorithm and results are explained in detail in the following manuscr
 
 # Repository content:
 
-Data preprocessing: This folder contains codes to clean and preprocess time-series data, labs, and medications. 
-IDEA models: This folder contains codes to train Random Forest classifiers (one for each AKI outcome) for perioperative data.
-PreOP models: This folder contains codes to train Generalized Additive Models (GAM) for preoperative data (for comparison purposes). 
-Images: This folder contains few images for the ReadMe file. 
+* Data preprocessing: This folder contains codes to clean and preprocess time-series data, labs, and medications. 
+* IDEA models: This folder contains codes to train Random Forest classifiers (one for each AKI outcome) for perioperative data.
+* PreOP models: This folder contains codes to train Generalized Additive Models (GAM) for preoperative data (for comparison purposes). 
+* Images: This folder contains few images for the ReadMe file. 
 
