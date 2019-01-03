@@ -28,3 +28,7 @@ Physiologic time series variations stratified by AKI-7day outcome for 100 random
 Receiver-operating characteristic curves and performance metrics for (1) preoperative model, (2) postoperative stacked model, and (3) postoperative full model in predicting AKI-7day outcome from the validation cohort:
 
 ![Alt text](https://github.com/prisma-p/IDEAs-Algorithm/blob/master/Images/image4.jpg?raw=true "Receiver-operating characteristic curves")
+
+The IDEAs algorithm and results are explained in details in the following manuscript
+
+* Adhikari L, Ozrazgat-Baslanti T, Thottakkara P, Ebadi A, Motaei A, Rashidi P, Li X, Bihorac A. Improved Predictive Models for Acute Kidney Injury with IDEAs: Intraoperative Data Embedded Analytics. arXiv preprint arXiv:1805.05452. 2018 May 11.
