@@ -31,4 +31,4 @@ Receiver-operating characteristic curves and performance metrics for (1) preoper
 
 The IDEAs algorithm and results are explained in details in the following manuscript
 
-* Adhikari L, Ozrazgat-Baslanti T, Thottakkara P, Ebadi A, Motaei A, Rashidi P, Li X, Bihorac A. Improved Predictive Models for Acute Kidney Injury with IDEAs: Intraoperative Data Embedded Analytics. arXiv preprint arXiv:1805.05452. 2018 May 11 [https://arxiv.org/pdf/1805.05452.pdf](https://arxiv.org/pdf/1805.05452.pdf).
+* Adhikari L, Ozrazgat-Baslanti T, Thottakkara P, Ebadi A, Motaei A, Rashidi P, Li X, Bihorac A. Improved Predictive Models for Acute Kidney Injury with IDEAs: Intraoperative Data Embedded Analytics. arXiv preprint arXiv:1805.05452. 2018 May 11,  [https://arxiv.org/pdf/1805.05452.pdf](https://arxiv.org/pdf/1805.05452.pdf).
