@@ -3,6 +3,7 @@
 Acute kidney injury (AKI) − an abrupt loss of kidney function − is a common and serious complication after a surgery which is associated with a high incidence of morbidity and mortality. The majority of existing perioperative AKI risk score prediction models are limited in their generalizability and do not fully utilize the physiological intraoperative time-series data. Thus, there is a need for intelligent, accurate, and robust systems, able to leverage information from large-scale data to predict patient’s risk of developing postoperative AKI. Here, we proposed an intelligent machine learning model that is able to improve patients’ postoperative AKI risk score by taking the intraoperative features into account. 
 
 
+![Alt text](https://github.com/prisma-p/IDEAs-Algorithm/blob/master/Images/Fig2.tif?raw=true "Title")
 
 Figure 1. High level view of the MySurgeryRisk IDEA algorithm. All the available electronic health care data including vital signs from preoperative and intraoperative layers flow into the IDEA machine learning algorithm to preform acute kidney injury (AKI) predictions. 
 
