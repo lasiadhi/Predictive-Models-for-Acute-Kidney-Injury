@@ -29,6 +29,14 @@ Receiver-operating characteristic curves and performance metrics for (1) preoper
 
 ![Alt text](https://github.com/prisma-p/IDEAs-Algorithm/blob/master/Images/image4.jpg?raw=true "Receiver-operating characteristic curves")
 
-The IDEAs algorithm and results are explained in details in the following manuscript
+The IDEAs algorithm and results are explained in detail in the following manuscript
 
 * Adhikari L, Ozrazgat-Baslanti T, Thottakkara P, Ebadi A, Motaei A, Rashidi P, Li X, Bihorac A. Improved Predictive Models for Acute Kidney Injury with IDEAs: Intraoperative Data Embedded Analytics. arXiv preprint arXiv:1805.05452. 2018 May 11,  [https://arxiv.org/abs/1805.05452](https://arxiv.org/abs/1805.05452).
+
+# Repository content:
+
+Data preprocessing: This folder contains codes to clean and preprocess time-series data, labs, and medications. 
+IDEA models: This folder contains codes to train Random Forest classifiers (one for each AKI outcome) for perioperative data.
+PreOP models: This folder contains codes to train Generalized Additive Models (GAM) for preoperative data (for comparison purposes). 
+Images: This folder contains few images for the ReadMe file. 
+
